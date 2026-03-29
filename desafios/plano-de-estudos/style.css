@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+#html {
+    color: rgb(224, 86, 36);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#css {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#javascript {
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#git {
+    color: red;
+}
+
+#sql {
+    color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+
