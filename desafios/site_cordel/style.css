@@ -1,0 +1,42 @@
+header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 10px solid black;
+    margin: -8px;
+}
+
+h1 {
+    font-size: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#milton {
+    font-size: 20px;
+    margin-top: -40px;
+    margin-bottom: 40px;
+}
+
+main {
+    font-size: 60px;
+}
+
+#estrofe01 {
+    margin-top: 150px;
+    margin-bottom: 250px;
+}
+
+#estrofe02 {
+    
+    margin-bottom: 250px;
+    color: white;
+    background-image: url(imagens/background001.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.87);
+    margin: 5px;
+    margin-right: 1140px;
+}
